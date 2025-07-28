@@ -2,7 +2,7 @@ Demo python project to show the working of github actions.
 
 Reference: https://www.youtube.com/watch?v=K3RqgDPCjYs
 
-Official Github docs: https://docs.github.com/en/actions/get-started/quickstart
+Official Github docs: https://docs.github.com/en/actions/tutorials/build-and-test-code/python
 
 **Comparing with Jenkins**
 
